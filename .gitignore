@@ -1,0 +1,4 @@
+.ssh/
+.profile
+.bashrc
+.bash_logout
